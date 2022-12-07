@@ -1,1 +1,1 @@
-# km_2022_15_masinope
+Siin on kvantitatiivsete meetodite masinõppe teema materjalid.
